@@ -1,0 +1,13 @@
+"""
+# Copyright 2020
+# Justin Baum
+# RSA globals
+# CSCE557
+"""
+
+BLOCKSIZE = 8 # bytes
+PRIMESIZE = 33
+EXTRASAFETY = True
+DIRICHLETSIEVE = (6, [1,5], 1)
+FERMATTEST = [2,3,5,7,11,13,17,23,29,31,37,39]
+SIEVELIMIT = 41
