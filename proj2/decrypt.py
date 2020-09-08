@@ -36,7 +36,7 @@ def main():
         ciphertext.close()
     # Strip trailing \x00
     plainfile = open(plaintext, "rb").read()
-    while plainfile[-1] == '\0':
+    while plainfile[-1] == 0:
         plainfile = plainfile[:-1]
     plainfile2 = open(plaintext, "wb")
     plainfile2.write(plainfile)

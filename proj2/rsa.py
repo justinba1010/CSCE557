@@ -116,6 +116,14 @@ def generate_key(limit):
     """
     # Generate the key
     """
+
+    # Wikipedia says these two primes should have a few bits
+    # difference in length. This is where I use the redundancy bits.
+    # I can see why with small numbers.
+    # Originally I was getting prime pairs such as 19 and 19. Where
+    # Just a normal square root gave you the prime factorization.
+    # Square roots can be calculated exceptionally fast, and having
+    # two primes close to each other can lead to problems.
     p1 = generate_prime(limit)
     p2 = p1
     while p2 == p1:
