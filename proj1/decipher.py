@@ -84,6 +84,7 @@ def main():
         sys.exit(SystemExit(1))
 
     filename = sys.argv[1]
+    print(filename)
     words_in = open(filename).read().split()
     letters = [letter for word in words_in for letter in word]
 

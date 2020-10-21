@@ -116,7 +116,7 @@ def multiplicative_inverse(a, field):
     """
     original_field = field
     y = 0
-    x = 3
+    x = 1
     if field <= 1:
         return 0
 
@@ -145,8 +145,7 @@ def generate_key(limit):
         p2 = generate_prime(limit)
     print_d("Prime %s, %s " % (p1, p2))
     modulus = p1 * p2
-    totient = (p1-1)*(p2-1)
-    # totient = lcm((p1 - 1), (p2 - 1))
+    totient = lcm((p1 - 1), (p2 - 1))
     # Find a coprime
     e = totient
     while gcd(e, totient) != 1:
