@@ -4,7 +4,8 @@ Justin Baum
 curve_types.py
 Gets rid of circular dependencies
 """
-from typing import TypeVar
+from typing import TypeVar, Tuple
 
 TPoint = TypeVar('TPoint')
 TCurve = TypeVar('TCurve')
+TPairPoint = Tuple[TPoint, TPoint]
