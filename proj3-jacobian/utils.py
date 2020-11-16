@@ -5,8 +5,6 @@ utils.py
 Utilities
 """
 
-from functools import reduce
-
 # pylint: disable=invalid-name
 def general_linear_congruence(a : int, modulus : int, k : int) -> int:
     """
@@ -43,6 +41,9 @@ def eulers_criterion(a: int, p : int):
     return pow(a, (p-1)//2, p) == 1
 
 def factors(n):
+    """
+    Generate factors
+    """
     for i in range(2, n//2 + 1):
         if n % i == 0:
             yield i

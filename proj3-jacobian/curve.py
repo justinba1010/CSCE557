@@ -88,6 +88,8 @@ class Curve:
             for point in self.points:
                 yield point
             return
+        yield Point.infinity()
+        self.points.append(Point.infinity())
         for x_value in range(self.modulus):
             # when y is 0 in affine, this gives 2 because y = -y, it's very late this was just
             # a really cheap(mentally) way to fix it

@@ -1,0 +1,95 @@
+Script started on Mon Nov 16 17:49:13 2020
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 1001111111112312 -k 100000)[46Dpy[P[P[42C  [52Dpypy3 -m pip install sympy                          [26D[23D3                      [22Dypipwhich pypy3[11Dtime ([5C driver.py -p 1001111111112312 -k 100000)[44Dthon3 driver.py -p 100[7C112312 -k 1[3C00)0)[55Dpython3                                                [48Dtime (python3 driver.py -p 1001111111112312 -k 1000000)) ) ) 00)) [10D)         [9D)     ) ) ) ) ) )   
+)[K[A[54C)[1B[1C[K[K[A[56C[?1l>[?2004l[1B]2;time ( python3 driver.py -p 1001; )]1;timeThe factors are: 
+13
+77
+( python3 driver.py -p 1001; )  0.44s user 0.07s system 98% cpu 0.516 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 1001)01)[?1l>[?2004l
+]2;time ( python3 driver.py -p 10001; )]1;timeThe factors are: 
+73
+137
+( python3 driver.py -p 10001; )  0.47s user 0.07s system 98% cpu 0.554 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 10001)) ) ) ) 5)0)[?1l>[?2004l
+]2;time ( python3 driver.py -p 150; )]1;timeThe factors are: 
+10
+5
+30
+15
+( python3 driver.py -p 150; )  0.42s user 0.07s system 99% cpu 0.495 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 150)[1C) ) ) [7m1[7m00020320266633[27m)[15D[27m1[27m0[27m0[27m0[27m2[27m0[27m3[27m2[27m0[27m2[27m6[27m6[27m6[27m3[27m3[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266633; )]1;time
+^CThe k value was not large enough
+The factors are: 
+Unable to find factors
+( python3 driver.py -p 100020320266633; )  14.75s user 0.26s system 99% cpu 15.117 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266633)i))  )-)k) )1)0)0)0)0)) ) ) ) ) 4)0)0)0)0) )-)f) )5)0)) ) ) ) ) ) [?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266633 -k 40000; )]1;time^CThe k value was not large enough
+The factors are: 
+Unable to find factors
+( python3 driver.py -p 100020320266633 -k 40000; )  8.99s user 0.20s system 99% cpu 9.278 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266633 -k 40000)[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266633 -k 40000; )]1;timeThe factors are: 
+3029
+429271760801
+233
+33020904677
+( python3 driver.py -p 100020320266633 -k 40000; )  0.90s user 0.08s system 99% cpu 0.993 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266633 -k 40000)[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266633 -k 40000; )]1;timeThe factors are: 
+3029
+429271760801
+233
+33020904677
+( python3 driver.py -p 100020320266633 -k 40000; )  0.93s user 0.08s system 99% cpu 1.021 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266633 -k 40000)[P[10C [11D1 -k 4[3C0)[10D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266631 -k 40000; )]1;timeThe factors are: 
+10001891
+10000141
+( python3 driver.py -p 100020320266631 -k 40000; )  0.79s user 0.08s system 98% cpu 0.875 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266631 -k 40000)[P[10C [11D[P[10C [11D2 -k 4[3C0)[10D9 -k 4[3C0)[10D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266629 -k 40000; )]1;timeThe factors are: 
+1
+21
+4762872393649
+100020320266629
+( python3 driver.py -p 100020320266629 -k 40000; )  0.88s user 0.08s system 99% cpu 0.964 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266629 -k 40000)[P[10C [11D7 -k 4[3C0)[10D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266627 -k 40000; )]1;timeThe k value was not large enough
+The factors are: 
+Unable to find factors
+( python3 driver.py -p 100020320266627 -k 40000; )  0.82s user 0.08s system 99% cpu 0.914 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266627 -k 40000)[P[10C [11D5 -k 4[3C0)[10D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266625 -k 40000; )]1;timeThe k value was not large enough
+The factors are: 
+Unable to find factors
+( python3 driver.py -p 100020320266625 -k 40000; )  0.83s user 0.08s system 99% cpu 0.920 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266625 -k 40000)[P[10C [11D3 -k 4[3C0)[10D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266623 -k 40000; )]1;timeThe k value was not large enough
+The factors are: 
+Unable to find factors
+( python3 driver.py -p 100020320266623 -k 40000; )  0.83s user 0.08s system 98% cpu 0.915 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266623 -k 40000)[1C[1C[1C[1C[1C[1C[1C[1C) ) ) ) ) )  )1)0)0)0)0)0)[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266623 -k 100000; )]1;timeThe factors are: 
+313
+939
+106517912957
+319553738871
+( python3 driver.py -p 100020320266623 -k 100000; )  1.44s user 0.08s system 99% cpu 1.538 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266623 -k 100000)[P[11C [12D5 -k 1[4C0)[11D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266625 -k 100000; )]1;timeThe factors are: 
+8447573
+11840125
+( python3 driver.py -p 100020320266625 -k 100000; )  1.39s user 0.09s system 99% cpu 1.493 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266625 -k 100000)[P[11C [12D7 -k 1[4C0)[11D[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266627 -k 100000; )]1;timeThe k value was not large enough
+The factors are: 
+Unable to find factors
+( python3 driver.py -p 100020320266627 -k 100000; )  1.39s user 0.09s system 99% cpu 1.495 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004htime (python3 driver.py -p 100020320266627 -k 100000)[1C[3C) 5[3C0)[?1l>[?2004l
+]2;time ( python3 driver.py -p 100020320266627 -k 150000; )]1;timeThe factors are: 
+2326053959689
+43
+( python3 driver.py -p 100020320266627 -k 150000; )  2.02s user 0.09s system 99% cpu 2.136 total
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 ]2;justinbaum@Justins-MacBook-Pro:~/USC/CSCE557/proj4]1;..CSCE557/proj4[0m[27m[24m[J[01;32m➜  [36mproj4[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on Mon Nov 16 17:51:48 2020
